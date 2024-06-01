@@ -1,0 +1,24 @@
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea_Tablas_Hash.FormParticipantes.resources
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.csproj.GenerateResource.cache
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.AssemblyInfoInputs.cache
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.AssemblyInfo.cs
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.csproj.CoreCompileInputs.cache
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\Tarea Tablas Hash.exe
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\Tarea Tablas Hash.deps.json
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\Tarea Tablas Hash.runtimeconfig.json
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\Tarea Tablas Hash.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\Tarea Tablas Hash.pdb
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\refint\Tarea Tablas Hash.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.pdb
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.genruntimeconfig.cache
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\ref\Tarea Tablas Hash.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\nunit.framework.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\nunit.framework.legacy.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\EstructuraDeClases.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\Tabla Hash.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\EstructuraDeClases.pdb
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\bin\Debug\net6.0-windows\Tabla Hash.pdb
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.csproj.AssemblyReference.cache
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tarea Tablas Hash\obj\Debug\net6.0-windows\Tarea Tablas Hash.csproj.CopyComplete

@@ -1,0 +1,15 @@
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\bin\Debug\net6.0\Tabla Hash.deps.json
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\bin\Debug\net6.0\Tabla Hash.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\bin\Debug\net6.0\Tabla Hash.pdb
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\bin\Debug\net6.0\EstructuraDeClases.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\bin\Debug\net6.0\EstructuraDeClases.pdb
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\Tabla Hash.csproj.AssemblyReference.cache
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\Tabla Hash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\Tabla Hash.AssemblyInfoInputs.cache
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\Tabla Hash.AssemblyInfo.cs
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\Tabla Hash.csproj.CoreCompileInputs.cache
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\Tabla Hash.csproj.CopyComplete
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\Tabla Hash.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\refint\Tabla Hash.dll
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\Tabla Hash.pdb
+C:\Users\SuperUsuario\Desktop\UMG\QUINTO SEMESTRE\PROGRAMACION 3\Tarea Tablas Hash\Tabla Hash\obj\Debug\net6.0\ref\Tabla Hash.dll
